@@ -1,0 +1,17 @@
+{
+  "name": "tileanbotte",
+  "version": "1.0.0",
+  "description": "Un bot Discord per assegnare una città basata su un tiro di dado",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "@discordjs/rest": "^1.0.0",
+    "discord-api-types": "^0.26.0"
+  },
+  "author": "Filippo Bonechi",
+  "license": "ISC"
+}
